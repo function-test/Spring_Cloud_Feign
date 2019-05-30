@@ -1,0 +1,12 @@
+[submodule "Spring_Cloud_Feign_Example"]
+	path = Spring_Cloud_Feign_Example
+	url = https://github.com/function-test/Spring_Cloud_Feign_Example.git
+[submodule "Spring_Cloud_Feign_Client_01"]
+	path = Spring_Cloud_Feign_Client_01
+	url = https://github.com/function-test/Spring_Cloud_Feign_Client_01.git
+[submodule "Spring_Cloud_Feign_Client_02"]
+	path = Spring_Cloud_Feign_Client_02
+	url = https://github.com/function-test/Spring_Cloud_Feign_Client_02.git
+[submodule "Spring_Cloud_Feign_Eureka"]
+	path = Spring_Cloud_Feign_Eureka
+	url = https://github.com/function-test/Spring_Cloud_Feign_Eureka.git
